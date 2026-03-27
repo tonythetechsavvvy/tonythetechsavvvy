@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi, I’m Anthony (Tony).<br>A self-driven developer focused on building real skills in programming, AI, and software development.<br><br>💻 Currently learning: Python, app development, and AI<br>⚙️ Interested in: automation, game dev, and building useful tools<br>🎯 Goal: become a professional developer, start freelancing, and build my own tech projects<br>🚀 Long-term vision: create impactful software and grow into something bigger<br><br>I believe in discipline, consistency, and learning by doing — even with limited resources.
+Hi, I’m Abdullah Ismail (Tony).<br>A self-driven developer focused on building real skills in programming, AI, and software development.<br><br>💻 Currently learning: Python, app development, and AI<br>⚙️ Interested in: automation, game dev, and building useful tools<br>🎯 Goal: become a professional developer, start freelancing, and build my own tech projects<br>🚀 Long-term vision: create impactful software and grow into something bigger<br><br>I believe in discipline, consistency, and learning by doing — even with limited resources.
 
 
 ## 🌐 Socials:
